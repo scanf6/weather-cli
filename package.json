@@ -13,6 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.0.0",
+    "dedent-js": "^1.0.1",
     "yargs": "^17.2.1"
   }
 }
